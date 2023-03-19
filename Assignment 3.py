@@ -30,6 +30,6 @@ def string_test(s):
             pass
     print("The Original String :",s)
     print("The UPPER CASE letters :",uppercase)
-    print("The lowe case letters :",lowercase)
+    print("The lower case letters :",lowercase)
 s = "The quick Brow Fox"
 string_test(s)
