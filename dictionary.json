@@ -1,0 +1,32 @@
+{
+    "state_captials": [
+        {
+            "Captials": "Thiruvananthapuram",
+            "State": "Kerala"
+        },
+        {
+            "Captials": "Bhopal",
+            "State": "Madhya Pradesh"
+        },
+        {
+            "Captials": "Chandigarh",
+            "State": "Haryana "
+        },
+        {
+            "Captials": "Shimla",
+            "State": "Himachal Pradesh"
+        },
+        {
+            "Captials": "Ranchi",
+            "State": "Jharkhand"
+        },
+        {
+            "Captials": "Bangalore",
+            "State": "Karnataka"
+        },
+        {
+            "Captials": "Mumbai",
+            "State": "Maharashtra"
+        }
+    ]
+}
