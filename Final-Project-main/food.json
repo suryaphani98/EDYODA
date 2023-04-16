@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Paav Bhaaji",
+        "price": 120.0,
+        "no_of_plates": 30
+    },
+    {
+        "id": 2,
+        "name": "Vada Paav",
+        "price": 40.0,
+        "no_of_plates": 20
+    },
+    {
+        "id": 3,
+        "name": "Paani Poori",
+        "price": 30.0,
+        "no_of_plates": 70
+    },
+    {
+        "id": 4,
+        "name": "Chola Bhatura",
+        "price": 250.0,
+        "no_of_plates": 15
+    },
+    {
+        "id": 5,
+        "name": "Dahi Chaat",
+        "price": 40.0,
+        "no_of_plates": 50
+    },
+    {
+        "id": 6,
+        "name": "Sev puri",
+        "price": 30.0,
+        "no_of_plates": 50
+    }
+]

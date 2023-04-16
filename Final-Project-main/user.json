@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "name": "Surya Phanindra",
+        "password": "surya123",
+        "age": "23",
+        "Email": "surya@123",
+        "phone_number": "6281450359",
+        "address": "Rajahmundry",
+        "order history": {
+            "02-24-2023": [
+                "Paani Poori"
+            ]
+        }
+    }
+]
