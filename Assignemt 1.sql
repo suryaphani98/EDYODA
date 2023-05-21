@@ -1,10 +1,10 @@
 /* 1. Count the number of Salesperson whose name begin with ‘a’/’A’*/                                  
 
-select * from SalesPeople where Sname like 'A%' or 'a%';
+select count(*) from SalesPeople where Sname like 'A%' or 'a%';
 
 /* 2. Display all the Salesperson whose all orders worth is more than Rs. 2000.*/
 
-select Sname,s.Snum,Amt from salespeople s join orders o on s.Snum = o.Snum 
+select s.Sname,s.Snum,Amt from salespeople s join orders o on s.Snum = o.Snum 
 where Amt > 2000;
 
 /* 3. Count the number of Salesperson belonging to Newyork.*/
